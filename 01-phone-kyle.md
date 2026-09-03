@@ -11,7 +11,7 @@
 - [ ] Instagram (social media. may leave all together)
 - [ ] LinkedIn (social media. will keep)
 - [ ] gravl (fitness app)
-- [ ] Open-Sat (stock tracker)
+- [ ] MyStocks (stock tracker)
 - [ ] stock wallet
 - [ ] thunderbird mail (agregates all mails)
 - [ ] work folder (in shelter)
