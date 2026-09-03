@@ -15,12 +15,12 @@
 - [ ] stock wallet
 - [ ] thunderbird mail (agregates all mails)
 - [ ] work folder (in shelter)
- - [ ] teams
- - [ ] outlook
- - [ ] authenticator
- - [ ] monday
- - [ ] duo
- - [ ] zoom 
+  - [ ] teams
+  - [ ] outlook
+  - [ ] authenticator
+  - [ ] monday
+  - [ ] duo
+  - [ ] zoom 
 - [ ] banking app folder (in shelter)
 - [ ] appflowy (family notation)
 - [ ] Spotube (spotify without ads)
