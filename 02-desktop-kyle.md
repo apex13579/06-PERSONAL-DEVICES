@@ -2,10 +2,17 @@
 
 ## OS either steam os
 
-### Build
-- https://pcpartpicker.com/list/Nf9Rg3
+# laptop
 
-### Software
+## OS linux mint
+
+### Build
+- [pc](https://pcpartpicker.com/list/Nf9Rg3)
+
+### Laptop
+- [laptop](https://www.bestbuy.com/product/nimo-15-6-ips-fhd-gaming-laptop-amd-ryzen-7-8745hs-32gb-ddr5-ram-1tb-ssd-4-9ghz-radeon-780m-graphics-100w-usb-c-4-0-rose-gold/JJGHQYFJ8W/sku/12539387?utm_medium=feed&fs=tksytz&utm_source=chatgpt.com)
+
+### PC Software
 - Brave browser
 - Steam
 - App flowy
@@ -17,6 +24,9 @@
 - keylight-control
 - solarr
 - StreamController
+
+### Laptop Software
+- Tailscale
 - 
 
 ### Peripherals
