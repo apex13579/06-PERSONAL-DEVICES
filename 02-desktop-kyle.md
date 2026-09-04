@@ -13,4 +13,8 @@
 - KDE connect
 - GIT
 - Micro
+- flat seal
+- keylight-control
+- solarr
+- StreamController
 - 
