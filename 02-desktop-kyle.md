@@ -8,7 +8,9 @@
 ### Software
 - Brave browser
 - Steam
-- Libre office
+- App flowy
 - Thunderbird
 - KDE connect
+- GIT
+- Micro
 - 
