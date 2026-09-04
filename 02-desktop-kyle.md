@@ -8,3 +8,5 @@
 ### Software
 - Brave browser
 - Steam
+- libre office
+- 
