@@ -1,12 +1,14 @@
 # PC
 
-## os either steam os
+## OS either steam os
 
-### build
+### Build
 - https://pcpartpicker.com/list/Nf9Rg3
 
 ### Software
 - Brave browser
 - Steam
-- libre office
+- Libre office
+- Thunderbird
+- KDE connect
 - 
