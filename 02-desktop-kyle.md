@@ -24,12 +24,14 @@
 - keylight-control
 - solarr
 - StreamController
+- Qpwgraph
 
 ### Laptop Software
 - Tailscale
 - obs
 - brave browser
 - app flowy
+- Chatterino
 
 ### Peripherals
 - [keyboards](https://www.amazon.com/Keychron-Bluetooth-Wireless-Mechanical-Keyboard/dp/B08N52WWSM/ref=sr_1_2?crid=3PHCEWP1VEHAG&dib=eyJ2IjoiMSJ9.1q8BGfuoeoG7WkwsJsp4rm_7cN91vKWRRrniT-4roYPK7JQrUE9mdY0_RXwBgEeIYPLaDwtrNyuP-ysPiwp3cafDYHj-Oi0vOFRnNCfBdQClhkZa613He4MHh0tFjWNWzCrRJ7yy1BrETTlUjGBp6QpSHshtJfCSON8lNOT1x-pcBDBxeS380-Bh2RliQYbGFTF-MlWHOGWeYsTvgw7N8yQ3YcggTcOx7my4Vpvbkyc.eJyO9l9TOlE5GPqpvzH6EmVK-0FOEV_LG4ykT4cZB4o&dib_tag=se&keywords=keychron%2Bk12&qid=1788539176&sprefix=keychron%2Bk12%2Caps%2C177&sr=8-2&th=1)
@@ -40,4 +42,4 @@
 - [monitor 3](https://www.dell.com/en-us/shop/dell-pro-24-plus-qhd-usb-c-hub-monitor-p2425de/apd/210-brht/monitors-monitor-accessories?_gl=1*9ar3xh*_up*MQ..&gclid=34d15db2cb4314d5ab3137283cab13a1&gclsrc=3p.ds)
 - [monitor 4](https://www.amazon.com/Corsair-XENEON-Edge-Portable-Touchscreen/dp/B0H5KBJ41F/ref=sr_1_1?crid=2SNNFDIBL5O28&dib=eyJ2IjoiMSJ9.tv2f1hl-xPbBzLfLK_7x1UJLB40fFRlRUrGiheNuUxCyH9W5mR5AG16gh6mV6SYI69wNF1h8CRrSGIiK9ucrwp8iaR60lOGtjhpTFmAGEHOOe7yXOnETSmx-7uyijmedzztydPDpE-LfxzUjcqUE4jNGTf7AXJ2vxXJswR6crQeVlNXX_7nLcKmiHYsFwLhOeY4uZCgWszQAedphFTGSxAMYMiAPgfE8ubeiPdd7ixk.TuXVTsFlYilrhHMFjP-piLdA0LBDTXr9eWIbS81WCX0&dib_tag=se&keywords=xeneon%2Bedge&qid=1788541360&sprefix=xeneon%2Caps%2C165&sr=8-1&th=1)
 - [speaker](https://www.dell.com/en-us/shop/dell-slim-soundbar-sb521a/apd/520-aaru/home-theater)
-- 
+- [capture card](https://www.amazon.com/Elgato-4K-Ultra-Low-Streaming-Recording/dp/B0CPFWXMBL/ref=sr_1_4?crid=3QW6HDC4H2AIB&dib=eyJ2IjoiMSJ9.razfNbMyMScVJEA7J5Gj_ftEF62bGg5qpcOk2xxrMPtYe6i85ZGuBkqmOKc4_-v509WTAdwLKGXCXqxuRTveCVJ9gWicA_4_8pH_CX07rlW3eOVcH7HsnE2mHl3XWOK5XsGM82IIn5H2YG1GxAejnNHPswK0KegPhaaqz6A_kY03GXkP6oE0W2oYbf8Bk0Lk4Vrtbz0V5k7Xqk2REfHgtZgPn8925Tb3sgp_-z_PNoc.evVe1Sb5c8tYu_0pgeOb0ugmm2Jw0mslQ5f-Ug1fHf8&dib_tag=se&keywords=capture%2Bcard&qid=1788543657&sprefix=captu%2Caps%2C190&sr=8-4&th=1)
