@@ -35,11 +35,12 @@
 - protonup-qt
 
 ### Laptop Software
-- Tailscale
+- netbird
 - brave browser
 - app flowy
 - Chatterino
 - open razer
+- home assistant companion app
 
 ### Peripherals
 - [keyboards](https://www.amazon.com/Razer-Huntsman-Esports-Gaming-Keyboard/dp/B0CG7C1NVP/ref=sr_1_1?crid=3IRX67IS88VG6&dib=eyJ2IjoiMSJ9.y1eyscgGMpLq6zigN6TYVqk7avOYPKUNYQvwgaCi18NBR18hrE9RBqIlXtwJXgo7BfmNFAb6YHRbNnbUcq3k_yk8fTTcf-JvHy3s8Ka5xbDubm0KCrZg0OBeZ-QdRmYPnIzeE0vv98lBThU1vuJJvgpUUfV338iwp5KHSd2WVTj7OdRhoAJj7MifVnBxY8NeUVJYZQ_HTt7QExCKLdbDd-s7rNHNWgGO3W1UTNWIlJc.BM8lIu05MJTleeKwX4kMs6Os-3MBJF2hp-edBO0BjM8&dib_tag=se&keywords=Razer%2BHuntsman%2BV3%2BPro%2BMini&qid=1788647327&sprefix=razer%2Bhuntsman%2Bv3%2Bpro%2Bmini%2Caps%2C189&sr=8-1&th=1)
