@@ -7,7 +7,7 @@
 ## OS linux mint
 
 ### Build
-- [pc](https://pcpartpicker.com/list/Nf9Rg3)
+- [pc](https://pcpartpicker.com/user/Apex_13579/saved/Rhs2bv)
 
 ### Laptop
 - [laptop](https://www.bestbuy.com/product/nimo-15-6-ips-fhd-gaming-laptop-amd-ryzen-7-8745hs-32gb-ddr5-ram-1tb-ssd-4-9ghz-radeon-780m-graphics-100w-usb-c-4-0-rose-gold/JJGHQYFJ8W/sku/12539387?utm_medium=feed&fs=tksytz&utm_source=chatgpt.com)
@@ -50,7 +50,7 @@
 - [monitor 3](https://www.dell.com/en-us/shop/dell-pro-24-plus-qhd-usb-c-hub-monitor-p2425de/apd/210-brht/monitors-monitor-accessories?_gl=1*9ar3xh*_up*MQ..&gclid=34d15db2cb4314d5ab3137283cab13a1&gclsrc=3p.ds)
 - [monitor 4](https://www.amazon.com/Corsair-XENEON-Edge-Portable-Touchscreen/dp/B0H5KBJ41F/ref=sr_1_1?crid=2SNNFDIBL5O28&dib=eyJ2IjoiMSJ9.tv2f1hl-xPbBzLfLK_7x1UJLB40fFRlRUrGiheNuUxCyH9W5mR5AG16gh6mV6SYI69wNF1h8CRrSGIiK9ucrwp8iaR60lOGtjhpTFmAGEHOOe7yXOnETSmx-7uyijmedzztydPDpE-LfxzUjcqUE4jNGTf7AXJ2vxXJswR6crQeVlNXX_7nLcKmiHYsFwLhOeY4uZCgWszQAedphFTGSxAMYMiAPgfE8ubeiPdd7ixk.TuXVTsFlYilrhHMFjP-piLdA0LBDTXr9eWIbS81WCX0&dib_tag=se&keywords=xeneon%2Bedge&qid=1788541360&sprefix=xeneon%2Caps%2C165&sr=8-1&th=1)
 - [speaker](https://www.dell.com/en-us/shop/dell-slim-soundbar-sb521a/apd/520-aaru/home-theater)
-- [key lights](https://www.amazon.com/Elgato-Key-Light-Neo-Professional/dp/B0FDBL5MVM/ref=sr_1_184?crid=3UW7C144Z8SLV&dib=eyJ2IjoiMSJ9.Qtyg39mEBbs0O4WEXUT3UdXJGIT39hRy8ByKAAZ-x32SWfi40R8aFfogGaVpKQre95H9pQ5m1kL1DSrQRQHWp8pyCEN6_6Qg8lekmWVa0t7FlJAZ1fEaajq7iHMLslIhi1s-FOKr0LZE8yE1421LDkzBSP2pgqloPSBOxo0Wr6-367bs_sbh6ZVhZo1ikOmmkXxZm-TEnO8l_J2ALSm5UOJC3eCGoi9OCiOCN5UvawtuKbdqZmaqWoXJCPlmSlb3RRQSYaqyZ4QapTd2mp_l1Z7F_27UEccXAE4R9eGVe2o.ijqiKe6yryNvwAw7-Q_dZOd8CF0gXEX8p_r2pb7Otyo&dib_tag=se&keywords=elgato%2Bmic&qid=1788546581&sprefix=elgato%2Bmic%2Caps%2C181&sr=8-184&xpid=Mlj5xlMneqj1S&th=1)
+- [key lights](https://www.amazon.com/amaran-Verge-Bi-Color-Edge-lit-Rectangular/dp/B0F1MSB1GY?ref_=ast_sto_dp&th=1)
 - [mic](https://www.amazon.com/dp/B0CT787NLW?ref=clp_hp_h_pc&th=1)
 - [3.5mm relocation](https://www.amazon.com/XMSJSIY-Threaded-Headphone-Extension-Microphones/dp/B0F53HGQ9J/ref=sr_1_6?crid=1KU03H293ECMA&dib=eyJ2IjoiMSJ9.Do9C0xFGf5UXsi-ikrImqRU14Ep8oeKYByryP2OUWvd78Nw9680cB7kOqyzGz7JUOfOgbJrQoOZ-4jm5xSK298chEbUKZ6kOkfCuYX7IJsBoY0Vz06bO7BArG8sUQp-8okh2zKIf0VlqC7S-siLRCsT9MzWhyCNwFt9E8HOsq9U8XmrmzeZser7KVTV-Enk0wYChw74D9p6GErj-qdxqv1K-RQRBi_OSp4wM8mVGtzM.dtH4z9Mzo12MJXqKdv6PbjQzbGwtZJ2ChLq5r-faWhY&dib_tag=se&keywords=3.5mm%2Bjack%2Brelocation&qid=1788547414&sprefix=3.5mm%2Bjack%2Brelocation%2Caps%2C166&sr=8-6&th=1)
 - [game controller](https://www.amazon.com/GameSir-PC-Wireless-Gaming-Controller-Windows/dp/B0H29DX2CK/ref=sr_1_9?dib=eyJ2IjoiMSJ9.fHse-COfECh86hdc0OJs2vKW5KbjceF0c5LdD8T0WVdFuQ_5ViJZQPCr1vYTCj_sDhLZ845zsaUG76ItQVb7Kvu5KODrt_YjbM5aF7B0mZsnGRdNEZGtD5eD_6tKvVhEVvjAurGl06KxNhQgjTgj3LKyGM66Ph-yMPsb7Qzlb63A54mgL3_0mJbcH1cy5UgdG5CtIHsaWoRs2-XOmutOD4-b0X4Pt3xNPqCln4hmkW0.0i-7msb5zOF3pJjSNwb9kPXy0wX7CgwXcPbflWOu9Sw&dib_tag=se&keywords=GameSir%2BG7%2BPro%2BTri-Mode&qid=1788548067&sr=8-9&th=1)
