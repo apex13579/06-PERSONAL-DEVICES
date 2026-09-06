@@ -38,7 +38,6 @@
 - netbird
 - brave browser
 - app flowy
-- Chatterino
 - open razer
 - home assistant web app
 
@@ -63,10 +62,11 @@
 - [chair](https://www.amazon.com/Razer-Iskur-Ergonomic-Gaming-Built/dp/B0DP5SY554/ref=sr_1_4?sr=8-4)
 - [under desk fan](https://www.amazon.com/Amazon-Basics-Speed-Circulator-11-Inch/dp/B07BZQKC5M/ref=sr_1_1_ffob_sspa?crid=IGEMBED8JP6E&dib=eyJ2IjoiMSJ9.RX_SPTkIJyldHSICADP2vhfHYiARhZqun1ZqdfuuyfXHjxJw_4DEG7ExTCBWKwewTVpY7-F1gTZ-kSpJH9xyEYMcQAVLrEN56AAIdnlhDsx8hid6HYv1BS-RKkeHfhx6PS76_s5xAxyWZKMkM75Ju3V_3ck5vrbEfyVytVpMf-YRkXhpb_mbdkkSv21n7aZhRZr4uUr-DxZSaPsSS-XDBHjrtmwmBaRsGnLAGuk0gTtfioRlDlB9Eful22PTp8s_BM6vk_H-DMTHtw5js8Nvl5aaipyMN93w_ilsyTJHAz4.pGmaohAatIR0gdgdq6OrGbnqTJ3HCRry_duMHJpqqfM&dib_tag=se&keywords=under%2Bdesk%2Bfan&qid=1788553437&sprefix=under%2Bdesk%2Bfan%2Caps%2C169&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - [wall light](https://www.razer.com/gear-accessories/razer-sneki-snek-wall-light)
+
+# Consumables
 - [mints](https://www.respawnbyrazer.com/products/respawn-watermelon-guava-mint-mints)
 - [gum](https://www.respawnbyrazer.com/products/respawn-pomegranate-watermelon-chewing-gum-gum)
 - [drink](https://gfuel.com/collections/tubs/products/prison-realm?variant=42369168244811)
-
 
 # Prospective Sponsors
 - [tunnel bear](https://fairlyoddstreamers.com/resources/sponsorships/tunnelbear/)
